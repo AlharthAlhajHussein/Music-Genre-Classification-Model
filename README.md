@@ -78,7 +78,7 @@ After tuning, the model achieved an **F1 Score (Weighted)** of **0.5638**.
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/Music-Genre-Classification-Model.git
+git clone https://github.com/AlharthAlhajHussein/Music-Genre-Classification-Model.git
 
 # Open the Jupyter Notebook or VS Code to run
 ```
